@@ -14,5 +14,7 @@ Leaf smut: small black linear lesions on leaf blades, leaf tips may turn grey an
 The task involves classifying leaf images into one of three classes:
 
 1.Bacterial leaf blight,
+
 2.Brown spot,
+
 3.Leaf smut.
